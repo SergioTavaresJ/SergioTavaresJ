@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá! Me chamo Sérgio Tavares ✌️
+#### Estudante de Sistemas para  Internet 🌱
 
-<!--
-**SergioTavaresJ/SergioTavaresJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_serginhotavares_)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/serginho.tavares.9)
 
-Here are some ideas to get you started:
+[![Sérgio GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioTavaresJ&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Apaixonado por Tecnologia e Jogos Eletrônicos 💻🎮📱
+
+![](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
+![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+
+
+
+
+
