@@ -10,7 +10,7 @@
 Apaixonado por Tecnologia e   Jogos Eletrônicos </b>💻🎮📱
 
 
-![](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
+[![Wild Rift](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://account.riotgames.com/SemChoro#9769)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198040572791/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Sem_ChorO#9915)
 
